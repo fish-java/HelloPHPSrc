@@ -1,2 +1,2 @@
 <?php
-echo $_SERVER['REQUEST_METHOD'];
+echo "request method is : " . $_SERVER['REQUEST_METHOD'];
